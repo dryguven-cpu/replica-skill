@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "blader/humanizer"
       }
+    },
+    "ui-ux-pro-max-skill": {
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
+      }
     }
   },
   "enabledPlugins": {
-    "humanizer@humanizer": true
+    "humanizer@humanizer": true,
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true
   }
 }
